@@ -5,16 +5,6 @@
 🚀 Building real-world projects using PostgreSQL & Data Warehousing  
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-
-  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atheer7hCs&theme=react" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atheer7hCs&theme=react" />
-</p>
-
-
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -27,6 +17,15 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,aws,gcp,azure,vscode,git,github" />
+</p>
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atheer7hCs&theme=react" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atheer7hCs&theme=react" />
 </p>
 
 ---
