@@ -8,8 +8,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=atheer7hCs&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=atheer7hCs&layout=compact&theme=tokyonight&cache_seconds=86400" />
+
+  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atheer7hCs&theme=tokyonight" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atheer7hCs&theme=tokyonight" />
+
 </p>
 
 ---
@@ -39,3 +43,4 @@
     <img src="https://img.shields.io/badge/Twitter-@7ACS1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
+
