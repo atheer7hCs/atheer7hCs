@@ -12,18 +12,15 @@
 </p>
 
 
-## 💻 Tools 
+## 💻 Tools & Programming languages ​​
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,aws,gcp,azure,vscode,git,github" />
 </p>
 
-
-## 📊 GitHub Stats
-
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atheer7hCs&theme=react" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atheer7hCs&theme=react" style="display:inline-block;" />
 </p>
 
 ---
